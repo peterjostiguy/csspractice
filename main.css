@@ -1,0 +1,22 @@
+.top {
+  color: blue;
+}
+li {
+  color: red;
+}
+
+section {
+  color: green
+}
+
+#second {
+  color: pink;
+}
+
+p {
+  color: orange;
+}
+
+.test ~ p {
+  color: red;
+}
